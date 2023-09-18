@@ -1,0 +1,156 @@
+Enter the arxiv category (or d for default physics.hist-ph : category = physics.hist-ph
+Enter the maximum number of articles to summarize (or d for default of 10 : max = 10
+
+
+data["text"] = In this piece we study complexity science in the context of Heliophysics,
+describing it not as a discipline, but as a paradigm. In the context of
+Heliophysics, complexity science is the study of a star, interplanetary
+environment, magnetosphere, upper and terrestrial atmospheres, and planetary
+surface as interacting subsystems. Complexity science studies entities in a
+system (e.g., electrons in an atom, planets in a solar system, individuals in a
+society) and their interactions, and is the nature of what emerges from these
+interactions. It is a paradigm that employs systems approaches and is
+inherently multi- and cross-scale. Heliophysics processes span at least 15
+orders of magnitude in space and another 15 in time, and its reaches go well
+beyond our own solar system and Earth's space environment to touch planetary,
+exoplanetary, and astrophysical domains. It is an uncommon domain within which
+to explore complexity science.
+  After first outlining the dimensions of complexity science, the review
+proceeds in three epochal parts: 1) A pivotal year in the Complexity
+Heliophysics paradigm: 1996; 2) The transitional years that established
+foundations of the paradigm (1996-2010); and 3) The emergent literature largely
+beyond 2010.
+  This review article excavates the lived and living history of complexity
+science in Heliophysics. The intention is to provide inspiration, help
+researchers think more coherently about ideas of complexity science in
+Heliophysics, and guide future research. It will be instructive to Heliophysics
+researchers, but also to any reader interested in or hoping to advance the
+frontier of systems and complexity science.
+
+
+data["text"] = We describe the picture of physical processes suggested by Edward Nelson's
+stochastic mechanics when generalized to quantum field theory, after an
+introductory review of his theory applied to the hydrogen atom. By performing
+numerical simulations of the relevant stochastic processes, we observe that
+Nelson's theory provides an intuitive account of how particles can arise from
+an underlying field ``beable'' -- to use a phrase of John S. Bell -- in the
+case of free field theory, regularized on a lattice. We then argue that this
+picture looks qualitatively similar when generalized to interacting scalar
+field theory. Lastly, we compare the Nelsonian framework to various other
+proposed ontologies for QFT, and remark upon their relative merits in light of
+the effective field theory paradigm.
+
+
+data["text"] = The fascinating story of a major discovery at CERN is outlined. The bold
+decision to convert its most powerful, and only recently inaugurated, proton
+accelerator to a proton-antiproton collider led to the discovery of the W and Z
+bosons -- mediators of the weak interaction -- in a record time, at the
+experiments UA1 and UA2. The decisive roles of Carlo Rubbia and Simon van der
+Meer, who received the 1984 Nobel Prize for physics, are underlined.
+
+
+data["text"] = A form of Landauer's Principle is shown to hold for thermal systems by
+reference to the joint entropy associated with conjugate observables. It is
+shown that the source of the compensating entropy for irreversible physical
+processes is due to the irreducible uncertainty attending values of such
+mutually incompatible observables. The relevant irreversibility is argued to be
+that of quantum measurement rather than erasure of classical memory devices, as
+commonly assumed.
+
+
+data["text"] = This article proposes a mathematical model of an inverted analemmatic
+sundial, provides formulas for calculating the coordinates of their hour
+markers. On the example of the Belogorsk sundial, a method is described for
+determining the accuracy of time measurement using an inverted analemmatic
+sundial, in which cup marks are used as hour markers. The obtained value of the
+accuracy of time measurement with the help of the Belogorsk sundial is 5 - 6
+minutes and is quite good for a measuring instrument of the Bronze Age, and is
+also higher than the accuracy of time measurement with the help of a water
+clock. As a result, it is concluded that the hypothesis is confirmed that the
+invention of the sundial was associated with the need to improve the accuracy
+of time measurement using a water clock.
+
+
+data["text"] = I revisit the long-running controversy as to the transformation properties of
+temperature under Lorentz transformations, and argue that, contrary to
+widespread views in some parts of the literature, `relativistic thermodynamics'
+should not be understood as a generalization to relativistic physics of an
+initially non-relativistic theory but as an application of a general
+thermodynamic framework, neutral as to its spacetime setting, to the specific
+case of relativity. More specifically, I observe that the general framework of
+equilibrium thermodynamics incorporates arbitrary conserved quantities in
+addition to energy and that when that framework is applied to systems in which
+momentum is conserved and can be transferred between systems, it gives rise to
+an unambiguous result as to the thermodynamics of moving (including
+relativistically moving) systems. This leads to an equally unambiguous
+prediction as to how thermodynamic temperature transforms under Lorentz
+transformations (an answer coinciding with Einstein's, and Planck's, original
+results.) That said, one can identify within this framework other quantities
+which play a temperature-like role and have different transformation
+properties; at some level it is a matter of convention and semantics which is
+`the' temperature. I conclude with some brief remarks about the situation in
+general relativity.
+
+
+data["text"] = We show that the quantum wavefunctional can be seen as a set of classical
+fields on the 3D space aggregated by a measure. We obtain a complete
+description of the wavefunctional in terms of classical local beables. With
+this correspondence, classical explanations of the macro level and of
+probabilities transfer almost directly to the quantum. A key difference is
+that, in quantum theory, the classical states coexist in parallel, so the
+probabilities come from self-location uncertainty. We show that these states
+are distributed according to the Born rule. The coexistence of classical states
+implies that there are many worlds, even if we assume the collapse postulate.
+This leads automatically to a new version of the many-worlds interpretation in
+which the major objections are addressed naturally. We show that
+background-free quantum gravity provides additional support for this proposal
+and suggests why branching happens toward the future.
+
+
+data["text"] = We train a generative language model on the randomized local measurement data
+collected from Schr\"odinger's cat quantum state. We demonstrate that the
+classical reality emerges in the language model due to the information
+bottleneck: although our training data contains the full quantum information
+about Schr\"odinger's cat, a weak language model can only learn to capture the
+classical reality of the cat from the data. We identify the quantum-classical
+boundary in terms of both the size of the quantum system and the information
+processing power of the classical intelligent agent, which indicates that a
+stronger agent can realize more quantum nature in the environmental noise
+surrounding the quantum system. Our approach opens up a new avenue for using
+the big data generated on noisy intermediate-scale quantum (NISQ) devices to
+train generative models for representation learning of quantum operators, which
+might be a step toward our ultimate goal of creating an artificial intelligence
+quantum physicist.
+
+
+data["text"] = In this paper I argue that the fundamental aspect of our notion of time is
+that it defines an order relation, be it a total order relation between
+configurations of the world or just a partial order relation between events.
+This position is in contrast with a relationalist view popular in the quantum
+gravity literature, according to which it is just correlations between physical
+quantities that we observe and which capture every aspect of temporality in the
+world, at least according to general relativity. I argue that the view of time
+as defining an order relation is perfectly compatible with the way general
+relativity is applied, while the relationalist view has to face some
+challenges. This debate is important not only from the perspective of the
+metaphysics of space and time and of how to interpret our physical theories,
+but also for the development and understanding of theories of quantum gravity.
+
+
+data["text"] = Dennis Sciama argued that the existence of life depended on many quantities,
+the fundamental constants, so in a random universe life should be highly
+unlikely. However, without full knowledge of these constants, his argument
+implies a universe that would appear to be `intelligently designed.'
+
+
+****************************************************
+1932 bytes in ./corpus/physics.hist-ph/Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics.txt
+994 bytes in ./corpus/physics.hist-ph/Simulating Nelsonian Quantum Field Theory.txt
+635 bytes in ./corpus/physics.hist-ph/Memories from the W Boson Discovery.txt
+656 bytes in ./corpus/physics.hist-ph/A Note on Landauer's Principle.txt
+1062 bytes in ./corpus/physics.hist-ph/Mathematical model of inverted analemmatic sundial on the example of Belogorsk sundial of the Bronze Age.txt
+1563 bytes in ./corpus/physics.hist-ph/On relativistic temperature.txt
+1210 bytes in ./corpus/physics.hist-ph/The Relation between Wavefunction and 3D Space Implies Many Worlds with Local Beables and Probabilities.txt
+1292 bytes in ./corpus/physics.hist-ph/Observing Schrödinger's Cat with Artificial Intelligence: Emergent Classicality from Information Bottleneck.txt
+1085 bytes in ./corpus/physics.hist-ph/Time is order.txt
+525 bytes in ./corpus/physics.hist-ph/Sciama's argument on life in a random universe: Distinguishing apples from oranges.txt
